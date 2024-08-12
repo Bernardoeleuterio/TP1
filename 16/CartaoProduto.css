@@ -1,0 +1,32 @@
+.cartao-produto {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  width: 200px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.imagem-produto {
+  width: 100%;
+  height: auto;
+}
+
+.nome-produto {
+  font-size: 1.2em;
+  margin: 10px 0;
+}
+
+.descricao-produto {
+  font-size: 0.9em;
+  color: #555;
+}
+
+.preco-produto {
+  font-size: 1.1em;
+  color: #e60000;
+  margin-top: 10px;
+}
